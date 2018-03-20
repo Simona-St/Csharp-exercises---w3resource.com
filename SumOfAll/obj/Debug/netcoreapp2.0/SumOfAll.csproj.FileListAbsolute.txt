@@ -1,0 +1,10 @@
+D:\Programming Fundamentals\Projects\ArrayW3resource\SumOfAll\bin\Debug\netcoreapp2.0\SumOfAll.deps.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\SumOfAll\bin\Debug\netcoreapp2.0\SumOfAll.runtimeconfig.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\SumOfAll\bin\Debug\netcoreapp2.0\SumOfAll.runtimeconfig.dev.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\SumOfAll\bin\Debug\netcoreapp2.0\SumOfAll.dll
+D:\Programming Fundamentals\Projects\ArrayW3resource\SumOfAll\bin\Debug\netcoreapp2.0\SumOfAll.pdb
+D:\Programming Fundamentals\Projects\ArrayW3resource\SumOfAll\obj\Debug\netcoreapp2.0\SumOfAll.csproj.CoreCompileInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\SumOfAll\obj\Debug\netcoreapp2.0\SumOfAll.AssemblyInfoInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\SumOfAll\obj\Debug\netcoreapp2.0\SumOfAll.AssemblyInfo.cs
+D:\Programming Fundamentals\Projects\ArrayW3resource\SumOfAll\obj\Debug\netcoreapp2.0\SumOfAll.dll
+D:\Programming Fundamentals\Projects\ArrayW3resource\SumOfAll\obj\Debug\netcoreapp2.0\SumOfAll.pdb
