@@ -1,0 +1,7 @@
+D:\Programming Fundamentals\Projects\ArrayW3resource\3x3Matrix\bin\Debug\3x3Matrix.exe.config
+D:\Programming Fundamentals\Projects\ArrayW3resource\3x3Matrix\bin\Debug\3x3Matrix.exe
+D:\Programming Fundamentals\Projects\ArrayW3resource\3x3Matrix\bin\Debug\3x3Matrix.pdb
+D:\Programming Fundamentals\Projects\ArrayW3resource\3x3Matrix\obj\Debug\3x3Matrix.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\3x3Matrix\obj\Debug\3x3Matrix.csproj.CoreCompileInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\3x3Matrix\obj\Debug\3x3Matrix.exe
+D:\Programming Fundamentals\Projects\ArrayW3resource\3x3Matrix\obj\Debug\3x3Matrix.pdb

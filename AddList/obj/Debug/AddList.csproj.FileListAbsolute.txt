@@ -1,0 +1,7 @@
+D:\Programming Fundamentals\Projects\ArrayW3resource\AddList\bin\Debug\AddList.exe.config
+D:\Programming Fundamentals\Projects\ArrayW3resource\AddList\bin\Debug\AddList.exe
+D:\Programming Fundamentals\Projects\ArrayW3resource\AddList\bin\Debug\AddList.pdb
+D:\Programming Fundamentals\Projects\ArrayW3resource\AddList\obj\Debug\AddList.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\AddList\obj\Debug\AddList.csproj.CoreCompileInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\AddList\obj\Debug\AddList.exe
+D:\Programming Fundamentals\Projects\ArrayW3resource\AddList\obj\Debug\AddList.pdb

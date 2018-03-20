@@ -1,0 +1,11 @@
+D:\Programming Fundamentals\Projects\ArrayW3resource\all unique elements\bin\Debug\netcoreapp2.0\all unique elements.deps.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\all unique elements\bin\Debug\netcoreapp2.0\all unique elements.runtimeconfig.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\all unique elements\bin\Debug\netcoreapp2.0\all unique elements.runtimeconfig.dev.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\all unique elements\bin\Debug\netcoreapp2.0\all unique elements.dll
+D:\Programming Fundamentals\Projects\ArrayW3resource\all unique elements\bin\Debug\netcoreapp2.0\all unique elements.pdb
+D:\Programming Fundamentals\Projects\ArrayW3resource\all unique elements\obj\Debug\netcoreapp2.0\all unique elements.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\all unique elements\obj\Debug\netcoreapp2.0\all unique elements.csproj.CoreCompileInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\all unique elements\obj\Debug\netcoreapp2.0\all unique elements.AssemblyInfoInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\all unique elements\obj\Debug\netcoreapp2.0\all unique elements.AssemblyInfo.cs
+D:\Programming Fundamentals\Projects\ArrayW3resource\all unique elements\obj\Debug\netcoreapp2.0\all unique elements.dll
+D:\Programming Fundamentals\Projects\ArrayW3resource\all unique elements\obj\Debug\netcoreapp2.0\all unique elements.pdb

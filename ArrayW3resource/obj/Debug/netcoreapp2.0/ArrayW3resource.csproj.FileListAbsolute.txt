@@ -1,0 +1,11 @@
+D:\Programming Fundamentals\Projects\ArrayW3resource\ArrayW3resource\bin\Debug\netcoreapp2.0\ArrayW3resource.deps.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\ArrayW3resource\bin\Debug\netcoreapp2.0\ArrayW3resource.runtimeconfig.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\ArrayW3resource\bin\Debug\netcoreapp2.0\ArrayW3resource.runtimeconfig.dev.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\ArrayW3resource\bin\Debug\netcoreapp2.0\ArrayW3resource.dll
+D:\Programming Fundamentals\Projects\ArrayW3resource\ArrayW3resource\bin\Debug\netcoreapp2.0\ArrayW3resource.pdb
+D:\Programming Fundamentals\Projects\ArrayW3resource\ArrayW3resource\obj\Debug\netcoreapp2.0\ArrayW3resource.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\ArrayW3resource\obj\Debug\netcoreapp2.0\ArrayW3resource.csproj.CoreCompileInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\ArrayW3resource\obj\Debug\netcoreapp2.0\ArrayW3resource.AssemblyInfoInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\ArrayW3resource\obj\Debug\netcoreapp2.0\ArrayW3resource.AssemblyInfo.cs
+D:\Programming Fundamentals\Projects\ArrayW3resource\ArrayW3resource\obj\Debug\netcoreapp2.0\ArrayW3resource.dll
+D:\Programming Fundamentals\Projects\ArrayW3resource\ArrayW3resource\obj\Debug\netcoreapp2.0\ArrayW3resource.pdb
