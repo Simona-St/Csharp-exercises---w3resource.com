@@ -1,0 +1,9 @@
+c:\users\simona\source\repos\strings w3\replace lowercase characters with uppercase\bin\Debug\netcoreapp1.1\replace lowercase characters with uppercase.deps.json
+c:\users\simona\source\repos\strings w3\replace lowercase characters with uppercase\bin\Debug\netcoreapp1.1\replace lowercase characters with uppercase.runtimeconfig.json
+c:\users\simona\source\repos\strings w3\replace lowercase characters with uppercase\bin\Debug\netcoreapp1.1\replace lowercase characters with uppercase.runtimeconfig.dev.json
+c:\users\simona\source\repos\strings w3\replace lowercase characters with uppercase\bin\Debug\netcoreapp1.1\replace lowercase characters with uppercase.dll
+c:\users\simona\source\repos\strings w3\replace lowercase characters with uppercase\bin\Debug\netcoreapp1.1\replace lowercase characters with uppercase.pdb
+c:\users\simona\source\repos\strings w3\replace lowercase characters with uppercase\obj\Debug\netcoreapp1.1\replace lowercase characters with uppercase.csproj.CoreCompileInputs.cache
+c:\users\simona\source\repos\strings w3\replace lowercase characters with uppercase\obj\Debug\netcoreapp1.1\replace lowercase characters with uppercase.AssemblyInfo.cs
+c:\users\simona\source\repos\strings w3\replace lowercase characters with uppercase\obj\Debug\netcoreapp1.1\replace lowercase characters with uppercase.dll
+c:\users\simona\source\repos\strings w3\replace lowercase characters with uppercase\obj\Debug\netcoreapp1.1\replace lowercase characters with uppercase.pdb

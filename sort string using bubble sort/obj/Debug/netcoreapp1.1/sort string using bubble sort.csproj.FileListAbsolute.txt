@@ -1,0 +1,10 @@
+c:\users\simona\source\repos\strings w3\sort string using bubble sort\bin\Debug\netcoreapp1.1\sort string using bubble sort.deps.json
+c:\users\simona\source\repos\strings w3\sort string using bubble sort\bin\Debug\netcoreapp1.1\sort string using bubble sort.runtimeconfig.json
+c:\users\simona\source\repos\strings w3\sort string using bubble sort\bin\Debug\netcoreapp1.1\sort string using bubble sort.runtimeconfig.dev.json
+c:\users\simona\source\repos\strings w3\sort string using bubble sort\bin\Debug\netcoreapp1.1\sort string using bubble sort.dll
+c:\users\simona\source\repos\strings w3\sort string using bubble sort\bin\Debug\netcoreapp1.1\sort string using bubble sort.pdb
+c:\users\simona\source\repos\strings w3\sort string using bubble sort\obj\Debug\netcoreapp1.1\sort string using bubble sort.csprojResolveAssemblyReference.cache
+c:\users\simona\source\repos\strings w3\sort string using bubble sort\obj\Debug\netcoreapp1.1\sort string using bubble sort.csproj.CoreCompileInputs.cache
+c:\users\simona\source\repos\strings w3\sort string using bubble sort\obj\Debug\netcoreapp1.1\sort string using bubble sort.AssemblyInfo.cs
+c:\users\simona\source\repos\strings w3\sort string using bubble sort\obj\Debug\netcoreapp1.1\sort string using bubble sort.dll
+c:\users\simona\source\repos\strings w3\sort string using bubble sort\obj\Debug\netcoreapp1.1\sort string using bubble sort.pdb
