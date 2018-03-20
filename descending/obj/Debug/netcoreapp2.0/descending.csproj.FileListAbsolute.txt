@@ -1,0 +1,11 @@
+D:\Programming Fundamentals\Projects\ArrayW3resource\descending\bin\Debug\netcoreapp2.0\descending.deps.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\descending\bin\Debug\netcoreapp2.0\descending.runtimeconfig.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\descending\bin\Debug\netcoreapp2.0\descending.runtimeconfig.dev.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\descending\bin\Debug\netcoreapp2.0\descending.dll
+D:\Programming Fundamentals\Projects\ArrayW3resource\descending\bin\Debug\netcoreapp2.0\descending.pdb
+D:\Programming Fundamentals\Projects\ArrayW3resource\descending\obj\Debug\netcoreapp2.0\descending.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\descending\obj\Debug\netcoreapp2.0\descending.csproj.CoreCompileInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\descending\obj\Debug\netcoreapp2.0\descending.AssemblyInfoInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\descending\obj\Debug\netcoreapp2.0\descending.AssemblyInfo.cs
+D:\Programming Fundamentals\Projects\ArrayW3resource\descending\obj\Debug\netcoreapp2.0\descending.dll
+D:\Programming Fundamentals\Projects\ArrayW3resource\descending\obj\Debug\netcoreapp2.0\descending.pdb

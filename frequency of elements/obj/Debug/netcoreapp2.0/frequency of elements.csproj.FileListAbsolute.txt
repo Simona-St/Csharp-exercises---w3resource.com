@@ -1,0 +1,11 @@
+D:\Programming Fundamentals\Projects\ArrayW3resource\frequency of elements\bin\Debug\netcoreapp2.0\frequency of elements.deps.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\frequency of elements\bin\Debug\netcoreapp2.0\frequency of elements.runtimeconfig.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\frequency of elements\bin\Debug\netcoreapp2.0\frequency of elements.runtimeconfig.dev.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\frequency of elements\bin\Debug\netcoreapp2.0\frequency of elements.dll
+D:\Programming Fundamentals\Projects\ArrayW3resource\frequency of elements\bin\Debug\netcoreapp2.0\frequency of elements.pdb
+D:\Programming Fundamentals\Projects\ArrayW3resource\frequency of elements\obj\Debug\netcoreapp2.0\frequency of elements.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\frequency of elements\obj\Debug\netcoreapp2.0\frequency of elements.csproj.CoreCompileInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\frequency of elements\obj\Debug\netcoreapp2.0\frequency of elements.AssemblyInfoInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\frequency of elements\obj\Debug\netcoreapp2.0\frequency of elements.AssemblyInfo.cs
+D:\Programming Fundamentals\Projects\ArrayW3resource\frequency of elements\obj\Debug\netcoreapp2.0\frequency of elements.dll
+D:\Programming Fundamentals\Projects\ArrayW3resource\frequency of elements\obj\Debug\netcoreapp2.0\frequency of elements.pdb

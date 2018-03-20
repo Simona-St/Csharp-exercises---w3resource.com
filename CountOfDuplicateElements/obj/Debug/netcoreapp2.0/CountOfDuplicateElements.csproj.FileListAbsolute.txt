@@ -1,0 +1,11 @@
+D:\Programming Fundamentals\Projects\ArrayW3resource\CountOfDuplicateElements\bin\Debug\netcoreapp2.0\CountOfDuplicateElements.deps.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\CountOfDuplicateElements\bin\Debug\netcoreapp2.0\CountOfDuplicateElements.runtimeconfig.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\CountOfDuplicateElements\bin\Debug\netcoreapp2.0\CountOfDuplicateElements.runtimeconfig.dev.json
+D:\Programming Fundamentals\Projects\ArrayW3resource\CountOfDuplicateElements\bin\Debug\netcoreapp2.0\CountOfDuplicateElements.dll
+D:\Programming Fundamentals\Projects\ArrayW3resource\CountOfDuplicateElements\bin\Debug\netcoreapp2.0\CountOfDuplicateElements.pdb
+D:\Programming Fundamentals\Projects\ArrayW3resource\CountOfDuplicateElements\obj\Debug\netcoreapp2.0\CountOfDuplicateElements.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\CountOfDuplicateElements\obj\Debug\netcoreapp2.0\CountOfDuplicateElements.csproj.CoreCompileInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\CountOfDuplicateElements\obj\Debug\netcoreapp2.0\CountOfDuplicateElements.AssemblyInfoInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\CountOfDuplicateElements\obj\Debug\netcoreapp2.0\CountOfDuplicateElements.AssemblyInfo.cs
+D:\Programming Fundamentals\Projects\ArrayW3resource\CountOfDuplicateElements\obj\Debug\netcoreapp2.0\CountOfDuplicateElements.dll
+D:\Programming Fundamentals\Projects\ArrayW3resource\CountOfDuplicateElements\obj\Debug\netcoreapp2.0\CountOfDuplicateElements.pdb

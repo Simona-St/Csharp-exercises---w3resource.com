@@ -1,0 +1,7 @@
+D:\Programming Fundamentals\Projects\ArrayW3resource\delete an element\bin\Debug\delete an element.exe.config
+D:\Programming Fundamentals\Projects\ArrayW3resource\delete an element\bin\Debug\delete an element.exe
+D:\Programming Fundamentals\Projects\ArrayW3resource\delete an element\bin\Debug\delete an element.pdb
+D:\Programming Fundamentals\Projects\ArrayW3resource\delete an element\obj\Debug\delete an element.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\delete an element\obj\Debug\delete an element.csproj.CoreCompileInputs.cache
+D:\Programming Fundamentals\Projects\ArrayW3resource\delete an element\obj\Debug\delete an element.exe
+D:\Programming Fundamentals\Projects\ArrayW3resource\delete an element\obj\Debug\delete an element.pdb
