@@ -1,0 +1,10 @@
+c:\users\simona\source\repos\strings w3\insert a substring\bin\Debug\netcoreapp1.1\insert a substring.deps.json
+c:\users\simona\source\repos\strings w3\insert a substring\bin\Debug\netcoreapp1.1\insert a substring.runtimeconfig.json
+c:\users\simona\source\repos\strings w3\insert a substring\bin\Debug\netcoreapp1.1\insert a substring.runtimeconfig.dev.json
+c:\users\simona\source\repos\strings w3\insert a substring\bin\Debug\netcoreapp1.1\insert a substring.dll
+c:\users\simona\source\repos\strings w3\insert a substring\bin\Debug\netcoreapp1.1\insert a substring.pdb
+c:\users\simona\source\repos\strings w3\insert a substring\obj\Debug\netcoreapp1.1\insert a substring.csprojResolveAssemblyReference.cache
+c:\users\simona\source\repos\strings w3\insert a substring\obj\Debug\netcoreapp1.1\insert a substring.csproj.CoreCompileInputs.cache
+c:\users\simona\source\repos\strings w3\insert a substring\obj\Debug\netcoreapp1.1\insert a substring.AssemblyInfo.cs
+c:\users\simona\source\repos\strings w3\insert a substring\obj\Debug\netcoreapp1.1\insert a substring.dll
+c:\users\simona\source\repos\strings w3\insert a substring\obj\Debug\netcoreapp1.1\insert a substring.pdb

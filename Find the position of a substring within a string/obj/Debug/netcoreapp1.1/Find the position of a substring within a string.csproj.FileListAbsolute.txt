@@ -1,0 +1,9 @@
+c:\users\simona\source\repos\strings w3\Find the position of a substring within a string\bin\Debug\netcoreapp1.1\Find the position of a substring within a string.deps.json
+c:\users\simona\source\repos\strings w3\Find the position of a substring within a string\bin\Debug\netcoreapp1.1\Find the position of a substring within a string.runtimeconfig.json
+c:\users\simona\source\repos\strings w3\Find the position of a substring within a string\bin\Debug\netcoreapp1.1\Find the position of a substring within a string.runtimeconfig.dev.json
+c:\users\simona\source\repos\strings w3\Find the position of a substring within a string\bin\Debug\netcoreapp1.1\Find the position of a substring within a string.dll
+c:\users\simona\source\repos\strings w3\Find the position of a substring within a string\bin\Debug\netcoreapp1.1\Find the position of a substring within a string.pdb
+c:\users\simona\source\repos\strings w3\Find the position of a substring within a string\obj\Debug\netcoreapp1.1\Find the position of a substring within a string.csproj.CoreCompileInputs.cache
+c:\users\simona\source\repos\strings w3\Find the position of a substring within a string\obj\Debug\netcoreapp1.1\Find the position of a substring within a string.AssemblyInfo.cs
+c:\users\simona\source\repos\strings w3\Find the position of a substring within a string\obj\Debug\netcoreapp1.1\Find the position of a substring within a string.dll
+c:\users\simona\source\repos\strings w3\Find the position of a substring within a string\obj\Debug\netcoreapp1.1\Find the position of a substring within a string.pdb

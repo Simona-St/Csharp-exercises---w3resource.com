@@ -1,0 +1,10 @@
+c:\users\simona\source\repos\strings w3\extract a substring\bin\Debug\netcoreapp1.1\extract a substring.deps.json
+c:\users\simona\source\repos\strings w3\extract a substring\bin\Debug\netcoreapp1.1\extract a substring.runtimeconfig.json
+c:\users\simona\source\repos\strings w3\extract a substring\bin\Debug\netcoreapp1.1\extract a substring.runtimeconfig.dev.json
+c:\users\simona\source\repos\strings w3\extract a substring\bin\Debug\netcoreapp1.1\extract a substring.dll
+c:\users\simona\source\repos\strings w3\extract a substring\bin\Debug\netcoreapp1.1\extract a substring.pdb
+c:\users\simona\source\repos\strings w3\extract a substring\obj\Debug\netcoreapp1.1\extract a substring.csprojResolveAssemblyReference.cache
+c:\users\simona\source\repos\strings w3\extract a substring\obj\Debug\netcoreapp1.1\extract a substring.csproj.CoreCompileInputs.cache
+c:\users\simona\source\repos\strings w3\extract a substring\obj\Debug\netcoreapp1.1\extract a substring.AssemblyInfo.cs
+c:\users\simona\source\repos\strings w3\extract a substring\obj\Debug\netcoreapp1.1\extract a substring.dll
+c:\users\simona\source\repos\strings w3\extract a substring\obj\Debug\netcoreapp1.1\extract a substring.pdb

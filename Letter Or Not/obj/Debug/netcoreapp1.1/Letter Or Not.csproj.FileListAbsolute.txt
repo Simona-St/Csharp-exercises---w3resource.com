@@ -1,0 +1,9 @@
+c:\users\simona\source\repos\strings w3\Letter Or Not\bin\Debug\netcoreapp1.1\Letter Or Not.deps.json
+c:\users\simona\source\repos\strings w3\Letter Or Not\bin\Debug\netcoreapp1.1\Letter Or Not.runtimeconfig.json
+c:\users\simona\source\repos\strings w3\Letter Or Not\bin\Debug\netcoreapp1.1\Letter Or Not.runtimeconfig.dev.json
+c:\users\simona\source\repos\strings w3\Letter Or Not\bin\Debug\netcoreapp1.1\Letter Or Not.dll
+c:\users\simona\source\repos\strings w3\Letter Or Not\bin\Debug\netcoreapp1.1\Letter Or Not.pdb
+c:\users\simona\source\repos\strings w3\Letter Or Not\obj\Debug\netcoreapp1.1\Letter Or Not.csproj.CoreCompileInputs.cache
+c:\users\simona\source\repos\strings w3\Letter Or Not\obj\Debug\netcoreapp1.1\Letter Or Not.AssemblyInfo.cs
+c:\users\simona\source\repos\strings w3\Letter Or Not\obj\Debug\netcoreapp1.1\Letter Or Not.dll
+c:\users\simona\source\repos\strings w3\Letter Or Not\obj\Debug\netcoreapp1.1\Letter Or Not.pdb

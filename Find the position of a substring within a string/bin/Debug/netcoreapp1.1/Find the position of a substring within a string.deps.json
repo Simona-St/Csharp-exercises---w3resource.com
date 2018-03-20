@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "find the position of a substring within a string/1.0.0": {
+        "runtime": {
+          "Find the position of a substring within a string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "find the position of a substring within a string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
